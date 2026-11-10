@@ -1,0 +1,7 @@
+[project]
+name = "uafedbench"
+version = "1.0.0"
+description = "Minimal reference environment for uncertainty-aware federated and networked RL"
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.24", "scipy>=1.10"]
+license = {text = "MIT"}
